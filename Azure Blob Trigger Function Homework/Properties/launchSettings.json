@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure_Blob_Trigger_Function_Homework": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7088",
+      "launchBrowser": false
+    }
+  }
+}
